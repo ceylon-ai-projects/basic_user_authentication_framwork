@@ -2,3 +2,11 @@
 __pycache__/
 *.py[cod]
 *$py.class
+
+# avoid database [SqlLite]
+*.sqlite3
+
+#IDE stuffs
+.idea
+*.iml
+
