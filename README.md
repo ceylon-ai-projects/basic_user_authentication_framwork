@@ -21,8 +21,8 @@
   
 ## Requirments
 
-  *python 3.6.5
-  *django 2.1
+  * python 3.6.5
+  * django 2.1
 
 ## How to install 
 
@@ -35,9 +35,9 @@ https://docs.python.org/3/using/unix.html#getting-and-installing-the-latest-vers
 
 
 ### Django Installation
-'''
-pip install django
-'''
+
+ * pip install django
+
 
 ## How to Run
 ```
@@ -48,13 +48,13 @@ pip install django
 ## Basic Components
 
 ### Users
-  *This app contains users models and urls,
-    *Signup, Signin, Reset password, Send password confirmation details
+  * This app contains users models and urls,
+    * Signup, Signin, Reset password, Send password confirmation details
 
 ### Pages
 
-  *Homepage
-  *Indexpage
+  * Homepage
+  * Indexpage
 
 ### Templates
 
@@ -67,13 +67,15 @@ This folder contain all user interface templates
 
 ## Todo
 
- * 1. Add email verification
- * 2. Add user profile and session managment features
- * 3. Intergrate with social logins
+ * Add email verification
+ * Add user profile and session managment features
+ * Intergrate with social logins
 
 
 
+## Licence
 
+#MIT
 
 
 
