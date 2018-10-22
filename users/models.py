@@ -8,6 +8,5 @@ class CustomUser(AbstractUser):
     # first_name = models.CharField(blank=False, max_length=255)
     # last_name = models.CharField(blank=False, max_length=255)
 
-
     def __str__(self):
         return self.email
