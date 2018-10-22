@@ -1,0 +1,22 @@
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+Subject: TestSite password reset
+From: TestSite Team <noreply@example.com>
+To: dewmalnilanka@gmail.com
+Date: Mon, 22 Oct 2018 09:09:15 -0000
+Message-ID: <154019935516.2141.8314092313107985787@dewmal-Aspire-F5-573G>
+
+
+To initiate the password reset process for your saman TestSite Account,
+click the link below:
+
+http://localhost:8000/users/reset/NA/50n-4a0c72e64d85aa0b5fb5/
+
+If clicking the link above doesn't work, please copy and paste the URL in a new browser
+window instead.
+
+Sincerely,
+The TestSite Team
+
+-------------------------------------------------------------------------------
