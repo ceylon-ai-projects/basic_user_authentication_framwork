@@ -130,7 +130,7 @@ EMAIL_FILE_PATH = os.path.join(BASE_DIR, "sent_emails")
 EMAIL_USE_TLS = True
 EMAIL_HOST = 'smtp.zoho.com'
 EMAIL_HOST_USER = 'egadmin@egreen.io'
-EMAIL_HOST_PASSWORD = 'Dewmal91#'
+EMAIL_HOST_PASSWORD = '######'
 EMAIL_PORT = 465
 
 DEFAULT_FROM_EMAIL = 'TestSite Team <noreply@example.com>'
