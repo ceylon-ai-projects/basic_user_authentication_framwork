@@ -2,23 +2,22 @@
 
 ## Features
 
-  *Basic User Authentication module
-  *This application convers below flow
+  * Basic User Authentication module
+  * This application convers below flow
 
 ### Flow 1
 
-*User registration flow
-
-  *1. Register user
-  *2. Login view
+* User registration flow
+ * Register user
+ * Login view
 
 ### Flow 2
-*Password Reset flow
+* Password Reset flow
   
-  *1. Password Reset form 
-  *2. Send email
-  *3. Confirm and view password reset form
-  *4. Change password
+  * 1. Password Reset form 
+  * 2. Send email
+  * 3. Confirm and view password reset form
+  * 4. Change password
   
 ## Requirments
 
@@ -68,9 +67,9 @@ This folder contain all user interface templates
 
 ## Todo
 
-    *1. Add email verification
-    *2. Add user profile and session managment features
-    *3. Intergrate with social logins
+ * 1. Add email verification
+ * 2. Add user profile and session managment features
+ * 3. Intergrate with social logins
 
 
 
